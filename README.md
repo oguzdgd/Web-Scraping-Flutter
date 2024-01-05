@@ -49,4 +49,7 @@ Servis kodunda future fonksiyonu kullandığımız için bize bir future nesnesi
 
 ![image](https://github.com/oguzdgd/Web-Scraping-Flutter/assets/109076888/b6543346-53de-4186-a219-87222616c6a6)
 
+![Image-103469601441541202953-7004099506](https://github.com/oguzdgd/Web-Scraping-Flutter/assets/109076888/6befc6af-5a1f-4206-8362-2f93d2fd2375)
+
+
  	Görsel 1.6    Toefl Sayfası arayüz oluşturma
